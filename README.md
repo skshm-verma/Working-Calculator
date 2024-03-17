@@ -18,7 +18,7 @@ Get ready to simplify your calculations with this user-friendly basic arithmetic
 - CSS (Styling and Visual Design)
 - 
 **Some Visuals:**
-<img src="/images/visual1.png" width="250" height="350"> <img src="/images/visual2.png" width="250" height="350">
+<img src="/images/visual1.png" width="200" height="300"> <img src="/images/visual2.png" width="200" height="300">
 
 **Getting Started:**
 
