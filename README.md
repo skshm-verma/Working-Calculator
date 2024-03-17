@@ -1,5 +1,6 @@
 
 #  Simple Calculator
+
 ![Static Badge](https://img.shields.io/badge/HTML5-%23f06529?style=flat-square&logo=HTML5&logoColor=%23e34c26&labelColor=black) ![Static Badge](https://img.shields.io/badge/CSS3-%232965f1?style=flat-square&logo=CSS3&logoColor=%23264de4&labelColor=black) ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code%20-%20%232965f1?style=flat-square&logo=VISUALSTUDIOCODE&logoColor=%232965f1&labelColor=black) ![Static Badge](https://img.shields.io/badge/Git_Hub-%20%233B4664?style=flat-square&logo=GITHUB&labelColor=black)
 
 **Description:**
@@ -16,9 +17,9 @@ Get ready to simplify your calculations with this user-friendly basic arithmetic
 - JavaScript (Logic and Functionality)
 - HTML (Structure and User Interface)
 - CSS (Styling and Visual Design)
-- 
+
 **Some Visuals:**
-<img src="/images/visual1.png" width="200" height="300"> <img src="/images/visual2.png" width="200" height="300">
+<img src="/images/visual1.png" width="250" height="250"> <img src="/images/visual2.png" width="250" height="250">
 
 **Getting Started:**
 
